@@ -5,3 +5,6 @@
 
 ## 디자인 패턴
 [요약](/Design%20Pattern/summary.md)
+
+## 프로그래밍 패러다임
+[요약](/Programming%20Paradigm/summary.md)
